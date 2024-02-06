@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KiranTotager
-- 👀 I’m interested in fullstack
-- 🌱 I’m currently learning java enterprise edition
+- 🌱 C|java|Pyton|js|sql|HTML|CSS|
 
 <!---
 KiranTotager/KiranTotager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
