@@ -1,5 +1,15 @@
-- 👋 Hi, I’m @KiranTotager
-- 🌱 C|java|Pyton|js|sql|HTML|CSS|
+👋 Hi, I’m @KiranTotager  
+ I'm a CSE student & aspiring AI/Full-Stack Developer  
+
+💻 Tech Stack:  
+🔹 Languages: Java | Python | C | JavaScript | SQL  
+🔹 Frontend: HTML | CSS | React.js  
+🔹 Backend: FastAPI | MySQL | REST APIs  
+🔹 Tools: Docker | Git | Jenkins | Linux  
+
+📫 Connect with me:  
+📧 tskiran5114@gmail.com
+🌐 https://kirantotager.allok.in
 
 <!---
 KiranTotager/KiranTotager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
