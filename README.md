@@ -9,7 +9,7 @@
 
 📫 Connect with me:  
 📧 tskiran5114@gmail.com
-🌐 https://kirantotager.allok.in
+🌐  https://kirantotager.github.io/portfolio/
 
 <!---
 KiranTotager/KiranTotager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
