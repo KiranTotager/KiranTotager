@@ -2,9 +2,9 @@
  I'm a CSE student & aspiring AI/Full-Stack Developer  
 
 💻 Tech Stack:  
-🔹 Languages: Java | Python | C | JavaScript | SQL  
+🔹 Languages: Java | Python | C | JavaScript | SQL  | .net
 🔹 Frontend: HTML | CSS | React.js  
-🔹 Backend: FastAPI | MySQL | REST APIs  
+🔹 Backend: FastAPI | MySQL | REST APIs  | spring boot | asp.net core
 🔹 Tools: Docker | Git | Jenkins | Linux  
 
 📫 Connect with me:  
