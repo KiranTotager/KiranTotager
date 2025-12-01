@@ -1,6 +1,5 @@
 👋 Hi, I’m @KiranTotager  
- I'm a CSE student & aspiring AI/Full-Stack Developer  
-
+ I'm a full stack developer trainee @nextWebi
 💻 Tech Stack:  
 🔹 Languages: Java | Python | C | JavaScript | SQL  | .net
 🔹 Frontend: HTML | CSS | React.js  
